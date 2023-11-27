@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://dalajama23.github.io/
+url: https://dalajama.band/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -38,8 +38,8 @@ disqus:
 #twitter: mytwitter
 instagram: dalajama.band
 #linkedin: mylinkedin
-#github: false
-email: dalajama@posteo.de
+github:
+email: info@dalajama.band
 
 authors:
   johndoe:
