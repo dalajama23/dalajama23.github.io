@@ -9,6 +9,7 @@ bio: Acoustic Rock/Pop Cover Band
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+logo: assets/images/logo_symbol.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
