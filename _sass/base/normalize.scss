@@ -347,3 +347,20 @@ template {
 [hidden] {
   display: none;
 }
+
+/* merch button */
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    padding:0.6em 2em;
+    border-radius: 8px;
+    color:#fff;
+    background-color:#FF360C;
+    font-size:1.1em;
+    border:0;
+    cursor:pointer;
+    margin:1em;
+}
+
