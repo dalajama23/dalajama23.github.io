@@ -8,20 +8,20 @@ layout: page
 
 <h2>Impressum</h2>
 
-Dalajama<br/>
-Altrottstraße 49<br/>
-69190 Walldorf<br/>
+Neotonik<br/>
+Emil-Maier-Str. 16<br/>
+69115 Heidelberg<br/>
 
 Internet:
-<a href="https://dalajama.band">dalajama.band</a>
+<a href="https://neotonik.de">neotonik.de</a>
 
 Email:
-<a href="mailto:info@dalajama.band">info@dalajama.band</a>
+band(at)neotonik.de
 
 Ansprechpartner: 
 
 Jan Sievers<br/>
-Blumenstr. 16/1<br/>
+Emil-Maier-Str. 16<br/>
 69115 Heidelberg<br/>
 
 V.i.S.d.P.: Jan Sievers
