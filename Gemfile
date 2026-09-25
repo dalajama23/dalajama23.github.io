@@ -6,6 +6,8 @@ group :jekyll_plugins do
     gem 'jekyll-gist'
     gem 'jekyll-seo-tag'
     gem 'jemoji'
+    gem 'csv'
+    gem 'bigdecimal'
 end
 
 gem "webrick"
