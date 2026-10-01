@@ -5,15 +5,15 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 
-<p>Neotonik are a band based in Heidelberg, Germany performing covers of rock and pop songs.<p/>
+<p>Neotonik ist eine Band aus Heidelberg. Wir spielen Rock- und Pop Cover Songs.<p/>
 
-<h2>Band Members</h2>
+<h2>Mitglieder</h2>
 <p>
-<i>Rebecca Wagner</i> (vocals)<br/>
-<i>Christian Beckenbach</i> (vocals)<br/>
-<i>Christoph Böhm</i> (keys, guitar, vocals)<br/>
-<i>Markus Melchinger</i> (guitar)<br/>
-<i>Vladimir Mu&ccaron;alov</i> (bass)<br/>
-<i>Jan Sievers</i> (drums)
+<i>Rebecca Wagner</i> (Gesang)<br/>
+<i>Christian Beckenbach</i> (Gesang)<br/>
+<i>Christoph Böhm</i> (Keyboard, Gesang, Gitarre)<br/>
+<i>Markus Melchinger</i> (Gitarre)<br/>
+<i>Vladimir Mu&ccaron;alov</i> (Bass)<br/>
+<i>Jan Sievers</i> (Schlagzeug)
 </p>
 
