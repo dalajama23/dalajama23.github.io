@@ -10,7 +10,7 @@ layout: page
 <h2>Band Members</h2>
 <p>
 <i>Rebecca Wagner</i> (vocals)<br/>
-<i>Christian Beckenbach-Sülzle</i> (vocals)<br/>
+<i>Christian Beckenbach</i> (vocals)<br/>
 <i>Christoph Böhm</i> (keys, guitar, vocals)<br/>
 <i>Markus Melchinger</i> (guitar)<br/>
 <i>Vladimir Mu&ccaron;alov</i> (bass)<br/>
