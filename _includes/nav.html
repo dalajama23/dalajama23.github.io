@@ -30,6 +30,12 @@
             {% endif %}
         {% endif %}
 
+        {% if page.title != "Trinkgeld" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/tips">Trinkgeld</a>
+            </li>
+        {% endif %}
+
         {% if site.impressum == true %}
             {% if page.title != "Impressum" %}
                 <li class="item">
